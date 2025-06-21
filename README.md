@@ -44,7 +44,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaliShau&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Статистика" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaliShau&theme=radical&hide_border=true&background=0d1117" alt="Рекорд" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaliShau&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Языки" width="48%"/>
 </div>
 
